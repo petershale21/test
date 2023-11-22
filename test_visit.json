@@ -1,0 +1,242 @@
+{
+    "cag": {
+      "uuid": "0ca300bc-02d0-4f47-a06f-4f5ffa9b6b86"
+    },
+    "dateStarted": "2023-11-12 18:07:14",
+    "locationName": "Bophelong Clinic",
+    "attender": {
+      "uuid": "f7e7f7fd-672b-48f4-8f5b-d06ea5c4be48"
+    },
+    "absentees": {
+        "db78d26f-c301-4262-9939-235564da5447": "Wasn't feeling it"
+    },
+    "visits": [
+      {
+        "patient": {
+          "uuid": "f7e7f7fd-672b-48f4-8f5b-d06ea5c4be48"
+        },
+        "visitType": "33e15d3c-54b7-4e8e-9527-b828c1cb24d0",
+        "location": {
+          "uuid": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f"
+        },
+        "startDatetime": "2023-11-12 18:07:14",
+        "encounters": [
+          {
+            "encounterDatetime": "2023-11-12 18:07:14",
+            "encounterType": "81888515-3f10-11e4-adec-0800271c1b75",
+            "patient": "f7e7f7fd-672b-48f4-8f5b-d06ea5c4be48",
+            "location": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f",
+            "obs": [
+              {
+                "concept": {
+                  "conceptId": 55,
+                  "uuid": "84f626d0-3f10-11e4-adec-0800271c1b75"
+                },
+                "obsDatetime": "2023-11-12 18:07:14",
+                "person": {
+                  "uuid": "f7e7f7fd-672b-48f4-8f5b-d06ea5c4be48"
+                },
+                "location": {
+                  "uuid": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f"
+                },
+                "groupMembers": [
+                  {
+                    "concept": {
+                      "conceptId": 4964,
+                      "uuid": "9b1fa8e6-8209-4fcd-abd2-142887fc83e0"
+                    },
+                    "valueCoded": "a3e3fdfe-e03c-401d-a3fd-1c2553fefe53",
+                    "valueCodedName": "HTC, Patient",
+                    "obsDatetime": "2023-11-12 18:07:14",
+                    "person": {
+                      "uuid": "f7e7f7fd-672b-48f4-8f5b-d06ea5c4be48"
+                    },
+                    "location": {
+                      "uuid": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f"
+                    }
+                  },
+                  {
+                    "concept": {
+                      "conceptId": 118,
+                      "uuid": "5090AAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                    },
+                    "valueNumeric": 140,
+                    "obsDatetime": "2023-11-12 18:07:14",
+                    "person": {
+                      "uuid": "f7e7f7fd-672b-48f4-8f5b-d06ea5c4be48"
+                    },
+                    "location": {
+                      "uuid": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f"
+                    }
+                  },
+                  {
+                    "concept": {
+                      "conceptId": 119,
+                      "uuid": "5089AAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                    },
+                    "valueNumeric": 60,
+                    "obsDatetime": "2023-11-12 18:07:14",
+                    "person": {
+                      "uuid": "f7e7f7fd-672b-48f4-8f5b-d06ea5c4be48"
+                    },
+                    "location": {
+                      "uuid": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f"
+                    }
+                  },
+                  {
+                    "concept": {
+                      "conceptId": 3710,
+                      "uuid": "4a2cec08-4512-4635-b1de-b3b698f56346"
+                    },
+                    "valueCoded": "562fee67-96c5-4b80-ba02-ba8805a28693",
+                    "valueCodedName": "No signs",
+                    "obsDatetime": "2023-11-12 18:07:14",
+                    "person": {
+                      "uuid": "f7e7f7fd-672b-48f4-8f5b-d06ea5c4be48"
+                    },
+                    "location": {
+                      "uuid": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f"
+                    }
+                  },
+                  {
+                    "concept": {
+                      "conceptId": 128,
+                      "uuid": "c36e9c8b-3f10-11e4-adec-0800271c1b75"
+                    },
+                    "valueNumeric": 120,
+                    "obsDatetime": "2023-11-12 18:07:14",
+                    "person": {
+                      "uuid": "f7e7f7fd-672b-48f4-8f5b-d06ea5c4be48"
+                    },
+                    "location": {
+                      "uuid": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f"
+                    }
+                  },
+                  {
+                    "concept": {
+                      "conceptId": 131,
+                      "uuid": "c379aa1d-3f10-11e4-adec-0800271c1b75"
+                    },
+                    "valueNumeric": 73,
+                    "obsDatetime": "2023-11-12 18:07:14",
+                    "person": {
+                      "uuid": "f7e7f7fd-672b-48f4-8f5b-d06ea5c4be48"
+                    },
+                    "location": {
+                      "uuid": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f"
+                    }
+                  },
+                  {
+                    "concept": {
+                      "conceptId": 2086,
+                      "uuid": "90f53912-95d5-4b5c-a9eb-81f3f937225e"
+                    },
+                    "valueNumeric": 24,
+                    "obsDatetime": "2023-11-12 18:07:14",
+                    "person": {
+                      "uuid": "f7e7f7fd-672b-48f4-8f5b-d06ea5c4be48"
+                    },
+                    "location": {
+                      "uuid": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "patient": "b57f0d44-b0cd-4b2e-9a44-26b52e3b974c",
+        "visitType": "33e15d3c-54b7-4e8e-9527-b828c1cb24d0",
+        "location": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f",
+        "startDatetime": "2023-11-12 18:07:14",
+        "encounters": [
+          {
+            "encounterDatetime": "2023-11-12 18:07:14",
+            "encounterType": "81888515-3f10-11e4-adec-0800271c1b75",
+            "patient": "b57f0d44-b0cd-4b2e-9a44-26b52e3b974c",
+            "location": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f",
+            "obs": [
+              {
+                "concept": {
+                  "conceptId": 55,
+                  "uuid": "84f626d0-3f10-11e4-adec-0800271c1b75"
+                },
+                "obsDatetime": "2023-11-12 18:07:14",
+                "person": {
+                  "uuid": "b57f0d44-b0cd-4b2e-9a44-26b52e3b974c"
+                },
+                "location": {
+                  "uuid": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f"
+                },
+                "groupMembers": [
+                  {
+                    "concept": {
+                      "conceptId": 4964,
+                      "uuid": "9b1fa8e6-8209-4fcd-abd2-142887fc83e0"
+                    },
+                    "valueCoded": "60c86ea4-5a2d-4d72-8190-32e47d06e0fa",
+                    "valueCodedName": "HTC, Buddy",
+                    "obsDatetime": "2023-11-12 18:07:14",
+                    "person": {
+                      "uuid": "b57f0d44-b0cd-4b2e-9a44-26b52e3b974c"
+                    },
+                    "location": {
+                      "uuid": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "patient": "4fbbfdbb-2ab2-45f1-aabc-e6d1d442afc0",
+        "visitType": "33e15d3c-54b7-4e8e-9527-b828c1cb24d0",
+        "location": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f",
+        "startDatetime": "2023-11-12 18:07:14",
+        "encounters": [
+          {
+            "encounterDatetime": "2023-11-12 18:07:14",
+            "encounterType": "81888515-3f10-11e4-adec-0800271c1b75",
+            "patient": "4fbbfdbb-2ab2-45f1-aabc-e6d1d442afc0",
+            "location": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f",
+            "obs": [
+              {
+                "concept": {
+                  "conceptId": 55,
+                  "uuid": "84f626d0-3f10-11e4-adec-0800271c1b75"
+                },
+                "obsDatetime": "2023-11-12 18:07:14",
+                "person": {
+                  "uuid": "4fbbfdbb-2ab2-45f1-aabc-e6d1d442afc0"
+                },
+                "location": {
+                  "uuid": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f"
+                },
+                "groupMembers": [
+                  {
+                    "concept": {
+                      "conceptId": 4964,
+                      "uuid": "9b1fa8e6-8209-4fcd-abd2-142887fc83e0"
+                    },
+                    "valueCoded": "60c86ea4-5a2d-4d72-8190-32e47d06e0fa",
+                    "valueCodedName": "HTC, Buddy",
+                    "obsDatetime": "2023-11-12 18:07:14",
+                    "person": {
+                      "uuid": "4fbbfdbb-2ab2-45f1-aabc-e6d1d442afc0"
+                    },
+                    "location": {
+                      "uuid": "8d6c993e-c2cc-11de-8d13-0010c6dffd0f"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
